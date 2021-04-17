@@ -15,3 +15,5 @@ lerna-debug.log*
 
 # Dependency directories
 node_modules/
+
+bin/
